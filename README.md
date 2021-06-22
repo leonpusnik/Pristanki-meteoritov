@@ -10,3 +10,6 @@ Načrt projekta
 2. Prikazal bom podrocja kamor so meteoriti padli v Sloveniji
 3. Primerjal bom stevilo padlih meteoritov v Sloveniji s stevilom padlih meteoritov na Portugalskem in Ekvadorju
 4. Pripravil bom kratek video predstavitve projekta
+
+
+Pripravil: Leon Pušnik
