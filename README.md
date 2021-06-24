@@ -13,3 +13,6 @@ Načrt projekta
 
 
 Pripravil: Leon Pušnik
+
+# Video posnetek
+https://youtu.be/ZFuKMMmWmVQ
