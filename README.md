@@ -7,7 +7,7 @@ Pri projektu uporabljamo racunalniski program Mathematica.
 Načrt projekta
 
 1. Pridobivanje podatkov. Uporabil bom Wolfram data repository
-2. Stevilo padcev v drzavi (kot primer vzeta Mehika)
+2. Stevilo padcev v drzavi
 3. Prikaz padcev meteoritov na grafu glede na tezo skozi leta 
 4. Prikazal bom podrocja kamor so meteoriti padli v Sloveniji
 5. Primerjal bom stevilo padlih meteoritov v Sloveniji s stevilom padlih meteoritov na Portugalskem in Ekvadorju
